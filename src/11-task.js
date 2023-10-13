@@ -4,7 +4,7 @@ function convertSeconds(seconds) {
     const минуты = Math.floor(seconds / 60);
     const секунды = seconds % 60;
   
-    return Время ; ${часы} ч ${минуты} мин ${секунды} сек;
+    return Время: ${часы} ч ${минуты} мин ${секунды} сек;
   }
   
   const секунды = 3665;
